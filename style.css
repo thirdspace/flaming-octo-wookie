@@ -1,0 +1,18 @@
+	body {
+	background: #000000;
+	color: #ffffff;
+	}
+	div.wrapper {
+		width: 960px;
+	}
+	div.body {
+	float: right;
+	width: 700px;
+	border: 1px solid #ccc;
+}
+	div.sidebar {
+	float: left;
+	width: 200px;
+	padding-left: 50px;
+	border: 1px solid #ccc;
+	}
